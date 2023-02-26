@@ -11,3 +11,8 @@ pip install cadCAD
 
 jupyter notebook
 ```
+## exercises:
+* add a withdrawal fee
+* plot staker balances
+* run longer simulations
+* using multiple rewardRates in the system_params; perform an A/B test with different rewardRates
