@@ -22,7 +22,6 @@ jupyter notebook
 an educational example for the New Order founder bootcamp
 
 This is a simple model of Vaults and Stakers earning Yield
-![System Diagram](./vault_model.001.png?raw=true "System Diagram")
 
 ## Definitions
 
@@ -102,11 +101,6 @@ TODO
 # System Goals
 Objective function:
 $MAX \frac{S_j}{R_j}$
-
-# Example run
-Results of one run with 1 vault, 4 stakers, and 10 timesteps
-![Vault Balances](./Figure_1.png?raw=true "Vault Balances")
-![Staker Balances](./Figure_2.png?raw=true "Staker Balances")
 
 
 
